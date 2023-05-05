@@ -1,5 +1,5 @@
 <h1 align="center">
-<strong> TEMPLATE-DJS-GEN </strong>
+<strong> GEN-TEMPLATE-DJS </strong>
 </h1>
 
 - [❓ Sobre](#❓-sobre)
@@ -10,7 +10,7 @@
 
 ## ❓ Sobre
 
-- A lib **template-djs-gen** foi criada para ajudar usuários da plataforma **Discord** a criar seus próprios robôs.
+- A lib **gen-template-djs** foi criada para ajudar usuários da plataforma **Discord** a criar seus próprios robôs.
 - Este código foi baseado da lib [djs-template-gen](https://www.npmjs.com/package/djs-template-gen), criada por **[Gandalf#9164](https://github.com/Gandalf51)**.
 
 ## ✨ Como instalar a lib
@@ -21,14 +21,14 @@ npm init -y
 ```
 - Agora, instale a nossa **lib** utilizando:
 ```js
-npm install template-djs-gen
+npm install gen-template-djs
 ```
 
 ## 🔑 Como utiliza-la
 
 - Em seu arquivo principal, digite o seguinte código:
 ```js
-require('template-djs-gen')
+require('gen-template-djs')
 ```
 - Após ter feito isso, de um run em seu **arquivo principal**
 - Terminal: **node (Arquivo principal)**
